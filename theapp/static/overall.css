@@ -2,5 +2,22 @@
 
 body{
     font-family: 'Noto Sans KR', sans-serif;
-    background-color: royalblue !important; 
+    background-color: rgb(108, 116, 141) !important; 
+}
+
+#section1{
+    float: left;
+}
+#article1{
+    float: right;
+    padding: 1000px;
+}
+#section2{
+    clear: left;
+    float: left;
+}
+#article2{
+    clear: right;
+    float: right;
+    padding: 1000px;
 }
